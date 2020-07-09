@@ -1,0 +1,1 @@
+# This Library is to test out serial communication via Node.js

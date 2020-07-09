@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/ppeetteerrs/.platformio/penv/bin:/Users/ppeetteerrs/.platformio/penv:/opt/local/bin:/opt/local/sbin:/Users/ppeetteerrs/anaconda3/bin:/Users/ppeetteerrs/anaconda3/condabin:/Users/ppeetteerrs/Library/Android/sdk/platform-tools:/Users/ppeetteerrs/Library/Android/sdk/emulator:/Users/ppeetteerrs/anaconda3/envs/py27/bin:/Users/ppeetteerrs/.nvm:/Users/ppeetteerrs/.nvm/versions/node/v10.13.0/bin:/Users/ppeetteerrs/.rvm/gems/ruby-2.4.1/bin:/Users/ppeetteerrs/.rvm/gems/ruby-2.4.1@global/bin:/Users/ppeetteerrs/.rvm/rubies/ruby-2.4.1/bin:/Users/ppeetteerrs/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/ppeetteerrs/.rvm/bin:/Users/ppeetteerrs/.rvm/bin:/Users/ppeetteerrs/Library/Android/sdk/build-tools/28.0.1:/Users/ppeetteerrs/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}

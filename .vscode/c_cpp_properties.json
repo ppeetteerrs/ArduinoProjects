@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/ppeetteerrs/Documents/Arduino/libraries/TMRpcm",
+                "/Users/ppeetteerrs/Library/Arduino15/packages/stm32duino/tools/**",
+                "/Users/ppeetteerrs/Library/Arduino15/packages/stm32duino/hardware/STM32F1/2019.2.28/**",
+                "/Users/ppeetteerrs/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/ppeetteerrs/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.0/**",
+                "/Applications/Arduino.app/Contents/Java/libraries/Stepper/src",
+                "/Applications/Arduino.app/Contents/Java/tools/**",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**",
+                "~/Documents/Arduino/libraries"
+            ],
+            "browse": {
+                "path": [
+                    "~/Documents/Arduino/libraries",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**"
+                ]
+            },
+            "forcedInclude": [
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

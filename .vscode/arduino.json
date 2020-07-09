@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "/dev/cu.wchusbserial1420",
+    "sketch": "PT1000/PT1000.ino",
+    "configuration": "cpu=atmega328old"
+}
